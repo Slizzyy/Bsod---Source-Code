@@ -1,3 +1,3 @@
 ### Bsod---Source-Code
 
-**Bsods your pc, what else?**
+**Bsod's your pc, what else?**
